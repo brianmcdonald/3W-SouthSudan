@@ -1,0 +1,30 @@
+/*
+ * Override dc.js default styles for selection
+ */
+h1, h2, h3, h4{
+color: #6C4D80;
+}
+.dc-chart g.row text {
+/*  fill: rgb(14, 68, 106);
+*/  
+	fill: black;
+	font-size: 12px;
+  cursor: pointer;
+}
+.dc-chart .selected path {
+    stroke-width: 1;
+    stroke: #ccc;
+    fill-opacity: 1;
+}
+.dc-chart .pie-slice {
+fill: rgb(14, 68, 106);
+}
+/*
+ * Page specific styles
+ */
+
+.logo {
+        height:50px;
+	padding: 5px;
+	margin: 5px;
+}
