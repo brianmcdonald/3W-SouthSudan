@@ -5,25 +5,25 @@ Overseas Development Institute,WASH,Juba
 HELP,Education,Awerial
 HELP,Education,Yirol West
 GOAL,Food Security & Livlihoods,Warrap
-GOAL,Food Security & Livlihoods,Abyei Region
+GOAL,Food Security & Livlihoods,Abyei region
 GOAL,Food Security & Livlihoods,Twic
 GOAL,Health,Baliet
 GOAL,Health,Maiwut
 GOAL,Health,Melut
 GOAL,Health,Ulang
-GOAL,Health,Abyei Region
+GOAL,Health,Abyei region
 GOAL,Health,Twic
 GOAL,Nutrition,Baliet
 GOAL,Nutrition,Maiwut
 GOAL,Nutrition,Melut
 GOAL,Nutrition,Ulang
-GOAL,Nutrition,Abyei Region
+GOAL,Nutrition,Abyei region
 GOAL,Nutrition,Twic
 GOAL,WASH,Baliet
 GOAL,WASH,Maiwut
 GOAL,WASH,Melut
 GOAL,WASH,Ulang
-GOAL,WASH,Abyei Region
+GOAL,WASH,Abyei region
 GOAL,WASH,Twic
 Internews,Media,Juba
 Internews,Media,Bor South
@@ -35,7 +35,7 @@ Internews,Media,Leer
 Internews,Media,Rubkona
 Internews,Media,Malakal
 Internews,Media,Luakpiny/Nasir
-Internews,Media,Abyei Region
+Internews,Media,Abyei region
 Internews,Media,Gogrial East
 Internews,Media,Gogrial West
 Plan International,Education,Juba
@@ -46,7 +46,7 @@ Plan International,Education,Magwi
 Plan International,Education,Akobo
 Plan International,Education,Awerial
 Plan International,Food Security & Livlihoods,Juba
-Plan International,Food Security & Livlihoods,Kajo-Keji
+Plan International,Food Security & Livlihoods,Kajo-keji
 Plan International,Food Security & Livlihoods,Lainya
 Plan International,Food Security & Livlihoods,Morobo
 Plan International,Food Security & Livlihoods,Yei
@@ -56,7 +56,7 @@ Plan International,Food Security & Livlihoods,Lafon
 Plan International,Food Security & Livlihoods,Magwi
 Plan International,Food Security & Livlihoods,Torit
 Plan International,Food Security & Livlihoods,kobo
-Plan International,Food Security & Livlihoods,PiBor South
+Plan International,Food Security & Livlihoods,Pibor
 Plan International,Food Security & Livlihoods,Awerial
 Plan International,Food Security & Livlihoods,Cueibet
 Plan International,Food Security & Livlihoods,Rumbek Centre
@@ -66,9 +66,9 @@ Plan International,CCCM,Rumbek East
 Plan International,CCCM,Rumbek North
 Plan International,CCCM,Wulu
 Plan International,Nutrition,Juba
-Plan International,Nutrition,Kajo-Keji
+Plan International,Nutrition,Kajo-keji
 Plan International,Nutrition,Akobo
-Plan International,Nutrition,PiBor South
+Plan International,Nutrition,Pibor
 Plan International,Nutrition,Awerial
 Plan International,Nutrition,Cueibet
 Plan International,Nutrition,Rumbek Centre
@@ -76,7 +76,7 @@ Plan International,Nutrition,Rumbek East
 Plan International,Nutrition,Wulu
 Plan International,Nutrition,Yirol West
 Plan International,Protection,Juba
-Plan International,Protection,Kajo-Keji
+Plan International,Protection,Kajo-keji
 Plan International,Protection,Lainya
 Plan International,Protection,Morobo
 Plan International,Protection,Yei
@@ -86,7 +86,7 @@ Plan International,Protection,Lafon
 Plan International,Protection,Magwi
 Plan International,Protection,Torit
 Plan International,Protection,Akobo
-Plan International,Protection,PiBor South
+Plan International,Protection,Pibor
 Plan International,Protection,Awerial
 Plan International,Protection,Rumbek Centre
 Plan International,Protection,Rumbek East
@@ -102,9 +102,9 @@ Plan International,WASH,Yei
 Plan International,WASH,Kapoeta North
 Plan International,WASH,Magwi
 Plan International,WASH,Akobo
-Plan International,WASH,PiBor South
+Plan International,WASH,Pibor
 Jhpiego,Health,Juba
-Jhpiego,Health,Kajo-Keji
+Jhpiego,Health,Kajo-keji
 Jhpiego,Health,Lainya
 Jhpiego,Health,Morobo
 Jhpiego,Health,Terekeka
@@ -134,7 +134,7 @@ IMA World Health,Health,Duk
 IMA World Health,Health,Fangak
 IMA World Health,Health,Canal/Pigi
 IMA World Health,Health,Nyirol
-IMA World Health,Health,PiBor South
+IMA World Health,Health,Pibor
 IMA World Health,Health,Pochalla
 IMA World Health,Health,Uror
 IMA World Health,Health,Baliet
@@ -166,7 +166,7 @@ Windle Trust International,Education,Raga
 Windle Trust International,Education,Wau
 Windle Trust International,Education,Mayom
 Windle Trust International,Education,Pariang
-Windle Trust International,Education,Panyijar
+Windle Trust International,Education,Panyijiar
 Windle Trust International,Education,Rubkona
 Windle Trust International,Education,Maban
 Windle Trust International,Education,Malakal
@@ -247,7 +247,7 @@ BBC Media Action,Media,Juba
 BBC Media Action,Media,Torit
 BBC Media Action,Media,Maridi
 BBC Media Action,Media,Rumbek Centre
-Veterinares sans frontiers suisse,Food Security & Livlihoods,PiBor South
+Veterinares sans frontiers suisse,Food Security & Livlihoods,Pibor
 Veterinares sans frontiers suisse,Food Security & Livlihoods,Aweil Centre
 Veterinares sans frontiers suisse,Food Security & Livlihoods,Aweil East
 Veterinares sans frontiers suisse,Food Security & Livlihoods,Aweil North
@@ -259,9 +259,9 @@ Veterinares sans frontiers suisse,Food Security & Livlihoods,Koch
 Veterinares sans frontiers suisse,Food Security & Livlihoods,Leer
 Veterinares sans frontiers suisse,Food Security & Livlihoods,Mayendit
 Veterinares sans frontiers suisse,Food Security & Livlihoods,Mayom
-Veterinares sans frontiers suisse,Food Security & Livlihoods,Panyijar
+Veterinares sans frontiers suisse,Food Security & Livlihoods,Panyijiar
 Veterinares sans frontiers suisse,Food Security & Livlihoods,Rubkona
-Veterinares sans frontiers suisse,Protection,PiBor South
+Veterinares sans frontiers suisse,Protection,Pibor
 Veterinares sans frontiers suisse,Protection,Guit
 Veterinares sans frontiers suisse,Protection,Koch
 Veterinares sans frontiers suisse,Protection,Leer
@@ -273,7 +273,7 @@ Veterinares sans frontiers suisse,Protection,Rubkona
 Intersos,Education,Juba
 Intersos,Education,Yambio
 Intersos,Education,Bor South
-Intersos,Education,PiBor South
+Intersos,Education,Pibor
 Intersos,Education,Rubkona
 Intersos,Education,Malakal
 Intersos,Protection,Akobo
@@ -299,7 +299,7 @@ Samaritan's Purse,WASH,Abiemnon
 Samaritan's Purse,WASH,Mayendit
 Samaritan's Purse,WASH,Mayom
 Samaritan's Purse,WASH,Pariang
-Samaritan's Purse,WASH,Abyei Region
+Samaritan's Purse,WASH,Abyei region
 Polish Humanitarian Action,Shelter and Non-Food Items,Juba
 Polish Humanitarian Action,Shelter and Non-Food Items,Ayod
 Polish Humanitarian Action,Shelter and Non-Food Items,Bor South
@@ -311,7 +311,7 @@ Christian Mission Aid,Health,Nyirol
 Christian Mission Aid,Nutrition,Fangak
 Christian Mission Aid,Nutrition,Nyirol
 Norwegian Church Aid,Education,Torit
-Norwegian Church Aid,Education,PiBor South
+Norwegian Church Aid,Education,Pibor
 Norwegian Church Aid,Education,Gogrial West
 Norwegian Church Aid,Health,Juba
 Norwegian Church Aid,Health,Kapoeta South
@@ -320,23 +320,23 @@ Norwegian Church Aid,Health,Gogrial West
 Norwegian Church Aid,Shelter and Non-Food Items,Juba
 Norwegian Church Aid,Shelter and Non-Food Items,Torit
 Norwegian Church Aid,Shelter and Non-Food Items,Duk
-Norwegian Church Aid,Shelter and Non-Food Items,PiBor South
+Norwegian Church Aid,Shelter and Non-Food Items,Pibor
 Norwegian Church Aid,Shelter and Non-Food Items,Pochalla
 Norwegian Church Aid,Shelter and Non-Food Items,Melut
 Norwegian Church Aid,Shelter and Non-Food Items,Gogrial West
 Norwegian Church Aid,WASH,Juba
 Norwegian Church Aid,WASH,Lafon
 Norwegian Church Aid,WASH,Torit
-Norwegian Church Aid,WASH,PiBor South
+Norwegian Church Aid,WASH,Pibor
 Norwegian Church Aid,WASH,Gogrial West
 Norwegian Church Aid,Conflict Prevention and Peacebuilding,Juba
 Norwegian Church Aid,Conflict Prevention and Peacebuilding,Lafon
 Norwegian Church Aid,Conflict Prevention and Peacebuilding,Magwi
 Norwegian Church Aid,Conflict Prevention and Peacebuilding,Torit
-Norwegian Church Aid,Conflict Prevention and Peacebuilding,PiBor South
+Norwegian Church Aid,Conflict Prevention and Peacebuilding,Pibor
 Norwegian Church Aid,Conflict Prevention and Peacebuilding,Gogrial West
 Centre for Internaional Program-ICAP,Health,Juba
-Centre for Internaional Program-ICAP,Health,Kajo-Keji
+Centre for Internaional Program-ICAP,Health,Kajo-keji
 Centre for Internaional Program-ICAP,Health,Lainya
 Centre for Internaional Program-ICAP,Health,Morobo
 Centre for Internaional Program-ICAP,Health,Terekeka
@@ -395,7 +395,7 @@ Catholic Relief Services,Food Security & Livlihoods,Ayod
 Catholic Relief Services,Food Security & Livlihoods,Bor South
 Catholic Relief Services,Food Security & Livlihoods,Twic East
 Catholic Relief Services,Food Security & Livlihoods,Duk
-Catholic Relief Services,Food Security & Livlihoods,PiBor South
+Catholic Relief Services,Food Security & Livlihoods,Pibor
 Catholic Relief Services,Food Security & Livlihoods,Pochalla
 Catholic Relief Services,Food Security & Livlihoods,Uror
 Catholic Relief Services,Food Security & Livlihoods,Awerial
@@ -404,7 +404,7 @@ Catholic Relief Services,Nutrition,Ayod
 Catholic Relief Services,Nutrition,Bor South
 Catholic Relief Services,Nutrition,Twic East
 Catholic Relief Services,Nutrition,Duk
-Catholic Relief Services,Nutrition,PiBor South
+Catholic Relief Services,Nutrition,Pibor
 Catholic Relief Services,Nutrition,Pochalla
 Catholic Relief Services,Nutrition,Uror
 Catholic Relief Services,Nutrition,Awerial
@@ -416,7 +416,7 @@ Catholic Relief Services,Shelter and Non-Food Items,Awerial
 Catholic Relief Services,WASH,Bor South
 Catholic Relief Services,WASH,Twic East
 Catholic Relief Services,WASH,Duk
-Catholic Relief Services,WASH,PiBor South
+Catholic Relief Services,WASH,Pibor
 Catholic Relief Services,WASH,Pochalla
 Catholic Relief Services,WASH,Uror
 Catholic Relief Services,WASH,Awerial
@@ -444,16 +444,16 @@ Catholic Relief Services,Governance and Rule of Law,Rumbek East
 Catholic Relief Services,Governance and Rule of Law,Rumbek North
 Free Voice Foundation,Conflict Prevention and Peacebuilding,Juba
 Free Voice Foundation,Conflict Prevention and Peacebuilding,Bor South
-Free Voice Foundation,Conflict Prevention and Peacebuilding,PiBor South
+Free Voice Foundation,Conflict Prevention and Peacebuilding,Pibor
 Free Voice Foundation,Conflict Prevention and Peacebuilding,Aweil Centre
 Free Voice Foundation,Conflict Prevention and Peacebuilding,Wau
 Free Voice Foundation,Conflict Prevention and Peacebuilding,Renk
 Finn Church Aid,Education,Fangak
-Finn Church Aid,Education,PiBor South
+Finn Church Aid,Education,Pibor
 Finn Church Aid,Education,Awerial
-Finn Church Aid,Food Security & Livlihoods,PiBor South
+Finn Church Aid,Food Security & Livlihoods,Pibor
 Finn Church Aid,Food Security & Livlihoods,Awerial
-Finn Church Aid,Conflict Prevention and Peacebuilding,PiBor South
+Finn Church Aid,Conflict Prevention and Peacebuilding,Pibor
 People in Need,Food Security & Livlihoods,Aweil North
 People in Need,Food Security & Livlihoods,Aweil West
 People in Need,Nutrition,Aweil North
@@ -478,9 +478,9 @@ The MENTOR Initiative,Health,Malakal
 The MENTOR Initiative,WASH,Rubkona
 The MENTOR Initiative,WASH,Malakal
 East African Ministries,Education,Magwi
-East African Ministries,Health,Kajo-Keji
+East African Ministries,Health,Kajo-keji
 East African Ministries,WASH,Juba
-East African Ministries,WASH,Kajo-Keji
+East African Ministries,WASH,Kajo-keji
 East African Ministries,WASH,Morobo
 East African Ministries,WASH,Terekeka
 East African Ministries,WASH,Yei
@@ -535,19 +535,19 @@ Women for Women International,Protection,Morobo
 Women for Women International,Protection,Yei
 Women for Women International,Conflict Prevention and Peacebuilding,Yei
 Sign of Hope,Food Security & Livlihoods,Rumbek Centre
-Sign of Hope,Food Security & Livlihoods,Panyijar
+Sign of Hope,Food Security & Livlihoods,Panyijiar
 Sign of Hope,Health,Rumbek Centre
-Sign of Hope,Health,Panyijar
+Sign of Hope,Health,Panyijiar
 Sign of Hope,Nutrition,Rumbek Centre
-Sign of Hope,Nutrition,Panyijar
+Sign of Hope,Nutrition,Panyijiar
 Sign of Hope,WASH,Rumbek Centre
-Sign of Hope,WASH,Panyijar
+Sign of Hope,WASH,Panyijiar
 Food for the hungry,Education,Akobo
 Food for the hungry,Education,Bor South
 Food for the hungry,Education,Twic East
 Food for the hungry,Education,Fangak
 Food for the hungry,Education,Nyirol
-Food for the hungry,Education,PiBor South
+Food for the hungry,Education,Pibor
 Food for the hungry,Education,Pochalla
 Food for the hungry,Education,Uror
 Food for the hungry,Education,Fashoda
@@ -618,13 +618,13 @@ HEKS- EPER  Swiss Church Aid,Food Security & Livlihoods,Juba
 HEKS- EPER  Swiss Church Aid,Food Security & Livlihoods,Lainya
 HEKS- EPER  Swiss Church Aid,Food Security & Livlihoods,Terekeka
 HEKS- EPER  Swiss Church Aid,WASH,Juba
-HEKS- EPER  Swiss Church Aid,WASH,Kajo-Keji
+HEKS- EPER  Swiss Church Aid,WASH,Kajo-keji
 HEKS- EPER  Swiss Church Aid,WASH,Lainya
 HEKS- EPER  Swiss Church Aid,WASH,Morobo
 HEKS- EPER  Swiss Church Aid,WASH,Terekeka
 HEKS- EPER  Swiss Church Aid,WASH,Yei
 HEKS- EPER  Swiss Church Aid,Conflict Prevention and Peacebuilding,Juba
-HEKS- EPER  Swiss Church Aid,Conflict Prevention and Peacebuilding,Kajo-Keji
+HEKS- EPER  Swiss Church Aid,Conflict Prevention and Peacebuilding,Kajo-keji
 HEKS- EPER  Swiss Church Aid,Conflict Prevention and Peacebuilding,Terekeka
 Action Against Hunger,Food Security & Livlihoods,Duk
 Action Against Hunger,Food Security & Livlihoods,Fangak
@@ -651,7 +651,7 @@ Welthungerhilfe/German Agro Action,Food Security & Livlihoods,Aweil Centre
 Welthungerhilfe/German Agro Action,Food Security & Livlihoods,Aweil North
 Welthungerhilfe/German Agro Action,Food Security & Livlihoods,Aweil South
 Welthungerhilfe/German Agro Action,Food Security & Livlihoods,Aweil West
-Welthungerhilfe/German Agro Action,Food Security & Livlihoods,Panyijar
+Welthungerhilfe/German Agro Action,Food Security & Livlihoods,Panyijiar
 Welthungerhilfe/German Agro Action,Food Security & Livlihoods,Rubkona
 Welthungerhilfe/German Agro Action,WASH,Aweil Centre
 Welthungerhilfe/German Agro Action,WASH,Aweil North
@@ -667,38 +667,38 @@ ZOA,Food Security & Livlihoods,Torit
 ZOA,Food Security & Livlihoods,Akobo
 ZOA,Food Security & Livlihoods,Bor South
 ZOA,Food Security & Livlihoods,Fangak
-ZOA,Food Security & Livlihoods,PiBor South
+ZOA,Food Security & Livlihoods,Pibor
 ZOA,WASH,Lainya
 ZOA,WASH,Terekeka
 ZOA,WASH,Torit
 ZOA,WASH,Akobo
 ZOA,WASH,Bor South
 ZOA,WASH,Fangak
-ZOA,WASH,PiBor South
+ZOA,WASH,Pibor
 ZOA,Conflict Prevention and Peacebuilding,Terekeka
 ZOA,Conflict Prevention and Peacebuilding,Akobo
 ZOA,Conflict Prevention and Peacebuilding,Bor South
-ZOA,Conflict Prevention and Peacebuilding,PiBor South
+ZOA,Conflict Prevention and Peacebuilding,Pibor
 ZOA,Governance and Rule of Law,Lainya
 ZOA,Governance and Rule of Law,Terekeka
 ZOA,Governance and Rule of Law,Akobo
 ZOA,Governance and Rule of Law,Bor South
 ZOA,Governance and Rule of Law,Fangak
-ZOA,Governance and Rule of Law,PiBor South
+ZOA,Governance and Rule of Law,Pibor
 ZOA,Environment & Natural Resources,Lainya
 ZOA,Environment & Natural Resources,Terekeka
 ZOA,Environment & Natural Resources,Torit
 ZOA,Environment & Natural Resources,Akobo
 ZOA,Environment & Natural Resources,Bor South
 ZOA,Environment & Natural Resources,Fangak
-ZOA,Environment & Natural Resources,PiBor South
+ZOA,Environment & Natural Resources,Pibor
 Search for Common Ground,Media,Juba
 Search for Common Ground,Media,Yei
 Search for Common Ground,Media,Malakal
 Search for Common Ground,Media,Tonj South
 Search for Common Ground,Media,Twic
 International Medical Corps,Health,Juba
-International Medical Corps,Health,Kajo-Keji
+International Medical Corps,Health,Kajo-keji
 International Medical Corps,Health,Nzara
 International Medical Corps,Health,Akobo
 International Medical Corps,Health,Pochalla
@@ -706,7 +706,7 @@ International Medical Corps,Health,Rumbek Centre
 International Medical Corps,Health,Raga
 International Medical Corps,Health,Wau
 International Medical Corps,Health,Leer
-International Medical Corps,Health,Panyijar
+International Medical Corps,Health,Panyijiar
 International Medical Corps,Health,Maban
 International Medical Corps,Health,Malakal
 International Medical Corps,Nutrition,Juba
@@ -729,7 +729,7 @@ Skills for South Sudan,CCCM,Wau
 Skills for South Sudan,CCCM,Tonj South
 Skills for South Sudan,CCCM,Twic
 ACROSS,Education,Yei
-ACROSS,Education,PiBor South
+ACROSS,Education,Pibor
 ACROSS,Education,Rumbek East
 ACROSS,Education,Tonj East
 ACROSS,Food Security & Livlihoods,Juba
@@ -751,7 +751,7 @@ ACROSS,Conflict Prevention and Peacebuilding,Terekeka
 ACROSS,Conflict Prevention and Peacebuilding,Bor South
 ACROSS,Conflict Prevention and Peacebuilding,Twic East
 ACROSS,Conflict Prevention and Peacebuilding,Duk
-ACROSS,Conflict Prevention and Peacebuilding,PiBor South
+ACROSS,Conflict Prevention and Peacebuilding,Pibor
 ACROSS,Conflict Prevention and Peacebuilding,Rumbek East
 ACROSS,Conflict Prevention and Peacebuilding,Tonj East
 ACROSS,Environment & Natural Resources,Rumbek Centre
@@ -770,7 +770,7 @@ International Aid Services,WASH,Yei
 International Aid Services,WASH,Mundri East
 International Aid Services,WASH,Mundri West
 International Aid Services,WASH,Bor South
-International Aid Services,WASH,PiBor South
+International Aid Services,WASH,Pibor
 International Aid Services,WASH,Aweil Centre
 International Aid Services,WASH,Aweil East
 International Aid Services,WASH,Aweil West
@@ -885,7 +885,7 @@ War Child Canada,Food Security & Livlihoods,Magwi
 War Child Canada,Food Security & Livlihoods,Torit
 War Child Canada,Conflict Prevention and Peacebuilding,Malakal
 Open Society Institute,Education,Juba
-Open Society Institute,Education,Kajo-Keji
+Open Society Institute,Education,Kajo-keji
 Open Society Institute,Education,Lainya
 Open Society Institute,Education,Morobo
 Open Society Institute,Education,Yei
@@ -917,14 +917,14 @@ Open Society Institute,Protection,Tambura
 Open Society Institute,Protection,Yambio
 Open Society Institute,Protection,Leer
 Open Society Institute,Conflict Prevention and Peacebuilding,Juba
-Open Society Institute,Conflict Prevention and Peacebuilding,Kajo-Keji
+Open Society Institute,Conflict Prevention and Peacebuilding,Kajo-keji
 Open Society Institute,Conflict Prevention and Peacebuilding,Lainya
 Open Society Institute,Conflict Prevention and Peacebuilding,Morobo
 Open Society Institute,Conflict Prevention and Peacebuilding,Terekeka
 Open Society Institute,Conflict Prevention and Peacebuilding,Yei
 Open Society Institute,Conflict Prevention and Peacebuilding,Ikotos
 Open Society Institute,Governance and Rule of Law,Juba
-Open Society Institute,Governance and Rule of Law,Kajo-Keji
+Open Society Institute,Governance and Rule of Law,Kajo-keji
 Open Society Institute,Governance and Rule of Law,Lainya
 Open Society Institute,Governance and Rule of Law,Morobo
 Open Society Institute,Governance and Rule of Law,Terekeka
@@ -937,7 +937,7 @@ Open Society Institute,Environment & Natural Resources,Kapoeta East
 Open Society Institute,Environment & Natural Resources,Kapoeta North
 Open Society Institute,Environment & Natural Resources,Kapoeta South
 Open Society Institute,Media,Juba
-Open Society Institute,Media,Kajo-Keji
+Open Society Institute,Media,Kajo-keji
 Open Society Institute,Media,Lainya
 Open Society Institute,Media,Morobo
 SIL International,Education,Juba
@@ -1011,17 +1011,17 @@ Concern Worldwide,Nutrition,Rubkona
 Concern Worldwide,WASH,Rubkona
 Peace Winds Japan,CCCM,Juba
 Peace Winds Japan,WASH,Juba
-Terre des hommes,Education,PiBor South
-Terre des hommes,Food Security & Livlihoods,PiBor South
-Terre des hommes,Health,PiBor South
-Terre des hommes,Nutrition,PiBor South
+Terre des hommes,Education,Pibor
+Terre des hommes,Food Security & Livlihoods,Pibor
+Terre des hommes,Health,Pibor
+Terre des hommes,Nutrition,Pibor
 Terre des hommes,Protection,Juba
-Terre des hommes,Protection,PiBor South
-Terre des hommes,WASH,PiBor South
+Terre des hommes,Protection,Pibor
+Terre des hommes,WASH,Pibor
 Veterinaires Sans Frontieres Germany,Food Security & Livlihoods,Ayod
 Veterinaires Sans Frontieres Germany,Food Security & Livlihoods,Bor South
 Veterinaires Sans Frontieres Germany,Food Security & Livlihoods,Twic East
-Veterinaires Sans Frontieres Germany,Food Security & Livlihoods,PiBor South
+Veterinaires Sans Frontieres Germany,Food Security & Livlihoods,Pibor
 Veterinaires Sans Frontieres Germany,Food Security & Livlihoods,Pochalla
 Veterinaires Sans Frontieres Germany,Food Security & Livlihoods,Cueibet
 Veterinaires Sans Frontieres Germany,Food Security & Livlihoods,Rumbek Centre
@@ -1034,8 +1034,8 @@ Veterinaires Sans Frontieres Germany,Food Security & Livlihoods,Ulang
 Veterinaires Sans Frontieres Germany,Food Security & Livlihoods,Gogrial East
 Veterinaires Sans Frontieres Germany,Food Security & Livlihoods,Gogrial West
 Veterinaires Sans Frontieres Germany,Food Security & Livlihoods,Tonj North
-Veterinaires Sans Frontieres Germany,Protection,PiBor South
-Helpage International,Food Security & Livlihoods,Abyei Region
+Veterinaires Sans Frontieres Germany,Protection,Pibor
+Helpage International,Food Security & Livlihoods,Abyei region
 Helpage International,Food Security & Livlihoods,Tonj North
 Helpage International,Food Security & Livlihoods,Twic
 Helpage International,Nutrition,Juba
@@ -1076,16 +1076,16 @@ Danish Refugee Council/Danish Demining Group,Mine Action,Mundri East
 Danish Refugee Council/Danish Demining Group,Mine Action,Mundri West
 Danish Refugee Council/Danish Demining Group,Mine Action,Akobo
 Danish Refugee Council/Danish Demining Group,Mine Action,Bor South
-Danish Refugee Council/Danish Demining Group,Mine Action,PiBor South
+Danish Refugee Council/Danish Demining Group,Mine Action,Pibor
 Danish Refugee Council/Danish Demining Group,Mine Action,Guit
 Danish Refugee Council/Danish Demining Group,Mine Action,Koch
 Danish Refugee Council/Danish Demining Group,Mine Action,Leer
 Danish Refugee Council/Danish Demining Group,Mine Action,Mayendit
 Danish Refugee Council/Danish Demining Group,Mine Action,Mayom
-Danish Refugee Council/Danish Demining Group,Mine Action,Panyijar
+Danish Refugee Council/Danish Demining Group,Mine Action,Panyijiar
 Danish Refugee Council/Danish Demining Group,Mine Action,Rubkona
 Danish Refugee Council/Danish Demining Group,Mine Action,Melut
-Danish Refugee Council/Danish Demining Group,Mine Action,Abyei Region
+Danish Refugee Council/Danish Demining Group,Mine Action,Abyei region
 Danish Refugee Council/Danish Demining Group,Protection,Guit
 Danish Refugee Council/Danish Demining Group,Protection,Mayom
 Danish Refugee Council/Danish Demining Group,Protection,Pariang
@@ -1154,7 +1154,7 @@ HealthNet TPO,Protection,Jur River
 Pact,Health,Juba
 Pact,Health,Yei
 Pact,Health,Torit
-Pact,WASH,PiBor South
+Pact,WASH,Pibor
 Pact,Conflict Prevention and Peacebuilding,Juba
 Pact,Governance and Rule of Law,Juba
 Good NeighBor Souths International,Education,Yei
@@ -1208,23 +1208,23 @@ ADRA,WASH,Luakpiny/Nasir
 Wildlife Conservation Society,Food Security & Livlihoods,Juba
 Wildlife Conservation Society,Food Security & Livlihoods,Terekeka
 Wildlife Conservation Society,Food Security & Livlihoods,Lafon
-Wildlife Conservation Society,Food Security & Livlihoods,PiBor South
+Wildlife Conservation Society,Food Security & Livlihoods,Pibor
 Wildlife Conservation Society,Food Security & Livlihoods,Pochalla
 Wildlife Conservation Society,Conflict Prevention and Peacebuilding,Juba
 Wildlife Conservation Society,Conflict Prevention and Peacebuilding,Terekeka
 Wildlife Conservation Society,Conflict Prevention and Peacebuilding,Lafon
-Wildlife Conservation Society,Conflict Prevention and Peacebuilding,PiBor South
+Wildlife Conservation Society,Conflict Prevention and Peacebuilding,Pibor
 Wildlife Conservation Society,Conflict Prevention and Peacebuilding,Pochalla
 Wildlife Conservation Society,Conflict Prevention and Peacebuilding,Wulu
 Wildlife Conservation Society,Governance and Rule of Law,Juba
-Wildlife Conservation Society,Governance and Rule of Law,Kajo-Keji
+Wildlife Conservation Society,Governance and Rule of Law,Kajo-keji
 Wildlife Conservation Society,Governance and Rule of Law,Morobo
 Wildlife Conservation Society,Governance and Rule of Law,Terekeka
 Wildlife Conservation Society,Governance and Rule of Law,Yei
 Wildlife Conservation Society,Governance and Rule of Law,Lafon
 Wildlife Conservation Society,Governance and Rule of Law,Magwi
 Wildlife Conservation Society,Governance and Rule of Law,Torit
-Wildlife Conservation Society,Governance and Rule of Law,PiBor South
+Wildlife Conservation Society,Governance and Rule of Law,Pibor
 Wildlife Conservation Society,Governance and Rule of Law,Pochalla
 Wildlife Conservation Society,Governance and Rule of Law,Rumbek Centre
 Wildlife Conservation Society,Governance and Rule of Law,Rumbek East
@@ -1232,7 +1232,7 @@ Wildlife Conservation Society,Governance and Rule of Law,Wulu
 Wildlife Conservation Society,Governance and Rule of Law,Yirol East
 Wildlife Conservation Society,Governance and Rule of Law,Yirol West
 Wildlife Conservation Society,Environment & Natural Resources,Juba
-Wildlife Conservation Society,Environment & Natural Resources,Kajo-Keji
+Wildlife Conservation Society,Environment & Natural Resources,Kajo-keji
 Wildlife Conservation Society,Environment & Natural Resources,Lainya
 Wildlife Conservation Society,Environment & Natural Resources,Morobo
 Wildlife Conservation Society,Environment & Natural Resources,Terekeka
@@ -1249,7 +1249,7 @@ Wildlife Conservation Society,Environment & Natural Resources,Ayod
 Wildlife Conservation Society,Environment & Natural Resources,Bor South
 Wildlife Conservation Society,Environment & Natural Resources,Twic East
 Wildlife Conservation Society,Environment & Natural Resources,Duk
-Wildlife Conservation Society,Environment & Natural Resources,PiBor South
+Wildlife Conservation Society,Environment & Natural Resources,Pibor
 Wildlife Conservation Society,Environment & Natural Resources,Pochalla
 Wildlife Conservation Society,Environment & Natural Resources,Rumbek Centre
 Wildlife Conservation Society,Environment & Natural Resources,Rumbek East
@@ -1259,7 +1259,7 @@ Wildlife Conservation Society,Environment & Natural Resources,Yirol West
 Norwegian People's Aid,Education,Juba
 Norwegian People's Aid,Education,Yei
 Norwegian People's Aid,Food Security & Livlihoods,Juba
-Norwegian People's Aid,Food Security & Livlihoods,Kajo-Keji
+Norwegian People's Aid,Food Security & Livlihoods,Kajo-keji
 Norwegian People's Aid,Food Security & Livlihoods,Morobo
 Norwegian People's Aid,Food Security & Livlihoods,Terekeka
 Norwegian People's Aid,Food Security & Livlihoods,Ikotos
@@ -1298,7 +1298,7 @@ Norwegian People's Aid,Environment & Natural Resources,Wulu
 Norwegian People's Aid,Environment & Natural Resources,Yirol East
 Norwegian People's Aid,Environment & Natural Resources,Yirol West
 Norwegian People's Aid,Media,Juba
-American Refugee Committee,Health,Kajo-Keji
+American Refugee Committee,Health,Kajo-keji
 American Refugee Committee,Health,Kapoeta East
 American Refugee Committee,Health,Kapoeta South
 American Refugee Committee,Health,Magwi
@@ -1309,7 +1309,7 @@ Serge,Food Security & Livlihoods,Mundri West
 Premiere Urgence Internationale,Health,Aweil North
 Premiere Urgence Internationale,Nutrition,Aweil North
 Population Services International,Health,Juba
-Population Services International,Health,Kajo-Keji
+Population Services International,Health,Kajo-keji
 Population Services International,Health,Lainya
 Population Services International,Health,Morobo
 Population Services International,Health,Terekeka
@@ -1354,9 +1354,9 @@ Malaria Consortium,Health,Aweil Centre
 Malaria Consortium,Health,Aweil West
 Malaria Consortium,Nutrition,Aweil Centre
 Malaria Consortium,Nutrition,Aweil West
-Mery Corps,Education,Panyijar
+Mery Corps,Education,Panyijiar
 Mery Corps,Education,Rubkona
-Mery Corps,Food Security & Livlihoods,Panyijar
+Mery Corps,Food Security & Livlihoods,Panyijiar
 Mery Corps,WASH,Rubkona
 International Rescue Committee,Food Security & Livlihoods,Juba
 International Rescue Committee,Food Security & Livlihoods,Aweil Centre
@@ -1364,17 +1364,17 @@ International Rescue Committee,Food Security & Livlihoods,Aweil South
 International Rescue Committee,Food Security & Livlihoods,Aweil West
 International Rescue Committee,Food Security & Livlihoods,Koch
 International Rescue Committee,Food Security & Livlihoods,Pariang
-International Rescue Committee,Food Security & Livlihoods,Panyijar
+International Rescue Committee,Food Security & Livlihoods,Panyijiar
 International Rescue Committee,Health,Aweil East
 International Rescue Committee,Health,Aweil North
 International Rescue Committee,Health,Aweil South
 International Rescue Committee,Health,Pariang
-International Rescue Committee,Health,Panyijar
+International Rescue Committee,Health,Panyijiar
 International Rescue Committee,Health,Rubkona
 International Rescue Committee,Nutrition,Aweil East
 International Rescue Committee,Nutrition,Aweil South
 International Rescue Committee,Nutrition,Pariang
-International Rescue Committee,Nutrition,Panyijar
+International Rescue Committee,Nutrition,Panyijiar
 International Rescue Committee,Protection,Juba
 International Rescue Committee,Protection,Rumbek Centre
 International Rescue Committee,Protection,Rumbek East
@@ -1383,24 +1383,24 @@ International Rescue Committee,Protection,Koch
 International Rescue Committee,Protection,Mayendit
 International Rescue Committee,Protection,Mayom
 International Rescue Committee,Protection,Pariang
-International Rescue Committee,Protection,Panyijar
+International Rescue Committee,Protection,Panyijiar
 International Rescue Committee,Protection,Rubkona
 International Rescue Committee,WASH,Koch
 International Rescue Committee,WASH,Pariang
-International Rescue Committee,WASH,Panyijar
+International Rescue Committee,WASH,Panyijiar
 International Rescue Committee,Conflict Prevention and Peacebuilding,Juba
 International Rescue Committee,Conflict Prevention and Peacebuilding,Pariang
-International Rescue Committee,Conflict Prevention and Peacebuilding,Panyijar
+International Rescue Committee,Conflict Prevention and Peacebuilding,Panyijiar
 International Rescue Committee,Governance and Rule of Law,Rumbek Centre
 International Rescue Committee,Governance and Rule of Law,Rumbek East
 International Rescue Committee,Governance and Rule of Law,Wulu
 International Rescue Committee,Governance and Rule of Law,Pariang
-International Rescue Committee,Governance and Rule of Law,Panyijar
+International Rescue Committee,Governance and Rule of Law,Panyijiar
 International Rescue Committee,Environment & Natural Resources,Aweil Centre
 International Rescue Committee,Environment & Natural Resources,Aweil South
 International Rescue Committee,Environment & Natural Resources,Aweil West
 International Rescue Committee,Environment & Natural Resources,Pariang
-International Rescue Committee,Environment & Natural Resources,Panyijar
+International Rescue Committee,Environment & Natural Resources,Panyijiar
 International Rescue Committee,Media,Juba
 Cordaid,Food Security & Livlihoods,Juba
 Cordaid,Food Security & Livlihoods,Budi
@@ -1421,7 +1421,7 @@ Cordaid,Shelter and Non-Food Items,Leer
 Cordaid,Shelter and Non-Food Items,Mayendit
 Cordaid,Shelter and Non-Food Items,Mayom
 Cordaid,Shelter and Non-Food Items,Malakal
-Cordaid,Shelter and Non-Food Items,Abyei Region
+Cordaid,Shelter and Non-Food Items,Abyei region
 Cordaid,WASH,Juba
 Cordaid,WASH,Leer
 United Methodist Committee On Relief,Education,Aweil Centre
@@ -1435,7 +1435,7 @@ United Methodist Committee On Relief,Protection,Yei
 United Methodist Committee On Relief,WASH,Aweil Centre
 Real Medicine Foundation,Health,Juba
 Real Medicine Foundation,Nutrition,Ayod
-Real Medicine Foundation,Nutrition,PiBor South
+Real Medicine Foundation,Nutrition,Pibor
 Christian Aid,Education,Juba
 Christian Aid,Education,Mundri West
 Christian Aid,Education,Aweil North
@@ -1450,14 +1450,14 @@ Christian Aid,Food Security & Livlihoods,Guit
 Christian Aid,Food Security & Livlihoods,Koch
 Christian Aid,Food Security & Livlihoods,Leer
 Christian Aid,Food Security & Livlihoods,Mayendit
-Christian Aid,Food Security & Livlihoods,Panyijar
+Christian Aid,Food Security & Livlihoods,Panyijiar
 Christian Aid,Health,Fangak
 Christian Aid,Shelter and Non-Food Items,Aweil North
 Christian Aid,Shelter and Non-Food Items,Koch
 Christian Aid,Shelter and Non-Food Items,Leer
 Christian Aid,Shelter and Non-Food Items,Mayendit
 Christian Aid,Shelter and Non-Food Items,Pariang
-Christian Aid,Shelter and Non-Food Items,Panyijar
+Christian Aid,Shelter and Non-Food Items,Panyijiar
 Christian Aid,WASH,Uror
 Christian Aid,WASH,Aweil North
 Christian Aid,WASH,Guit
@@ -1501,7 +1501,7 @@ War Child Holland,Education,Torit
 War Child Holland,Protection,Torit
 War Child Holland,Protection,Bor South
 Stromme Foundation,Education,Juba
-Stromme Foundation,Education,Kajo-Keji
+Stromme Foundation,Education,Kajo-keji
 Stromme Foundation,Education,Lainya
 Stromme Foundation,Education,Morobo
 Stromme Foundation,Education,Terekeka
@@ -1509,7 +1509,7 @@ Stromme Foundation,Education,Yei
 Stromme Foundation,Education,Kapoeta East
 Stromme Foundation,Education,Magwi
 Stromme Foundation,Education,Aweil South
-Stromme Foundation,Food Security & Livlihoods,Kajo-Keji
+Stromme Foundation,Food Security & Livlihoods,Kajo-keji
 Stromme Foundation,Food Security & Livlihoods,Lainya
 Stromme Foundation,Food Security & Livlihoods,Morobo
 Stromme Foundation,Food Security & Livlihoods,Terekeka
@@ -1533,7 +1533,7 @@ Medair,Nutrition,Mayendit
 Medair,Nutrition,Maban
 Medair,Nutrition,Renk
 Medair,Shelter and Non-Food Items,Juba
-Medair,Shelter and Non-Food Items,Kajo-Keji
+Medair,Shelter and Non-Food Items,Kajo-keji
 Medair,Shelter and Non-Food Items,Lainya
 Medair,Shelter and Non-Food Items,Morobo
 Medair,Shelter and Non-Food Items,Terekeka
@@ -1557,7 +1557,7 @@ Medair,WASH,Leer
 Medair,WASH,Maban
 Medair,WASH,Renk
 Oxfam,Education,Juba
-Oxfam,Education,Kajo-Keji
+Oxfam,Education,Kajo-keji
 Oxfam,Education,Lainya
 Oxfam,Education,Kapoeta East
 Oxfam,Education,Yambio
@@ -1588,14 +1588,14 @@ Oxfam,Food Security & Livlihoods,Bor South
 Oxfam,Food Security & Livlihoods,Twic East
 Oxfam,Food Security & Livlihoods,Duk
 Oxfam,Food Security & Livlihoods,Nyirol
-Oxfam,Food Security & Livlihoods,PiBor South
+Oxfam,Food Security & Livlihoods,Pibor
 Oxfam,Food Security & Livlihoods,Rumbek Centre
 Oxfam,Food Security & Livlihoods,Rumbek East
 Oxfam,Food Security & Livlihoods,Rumbek North
 Oxfam,Food Security & Livlihoods,Wau
 Oxfam,Food Security & Livlihoods,Leer
 Oxfam,Food Security & Livlihoods,Mayendit
-Oxfam,Food Security & Livlihoods,Panyijar
+Oxfam,Food Security & Livlihoods,Panyijiar
 Oxfam,Food Security & Livlihoods,Maban
 Oxfam,Food Security & Livlihoods,Malakal
 Oxfam,Food Security & Livlihoods,Melut
@@ -1612,7 +1612,7 @@ Oxfam,Nutrition,Bor South
 Oxfam,Nutrition,Twic East
 Oxfam,Nutrition,Duk
 Oxfam,Nutrition,Nyirol
-Oxfam,Nutrition,PiBor South
+Oxfam,Nutrition,Pibor
 Oxfam,Nutrition,Uror
 Oxfam,Nutrition,Rumbek Centre
 Oxfam,Nutrition,Rumbek East
@@ -1620,7 +1620,7 @@ Oxfam,Nutrition,Rumbek North
 Oxfam,Nutrition,Wau
 Oxfam,Nutrition,Leer
 Oxfam,Nutrition,Mayendit
-Oxfam,Nutrition,Panyijar
+Oxfam,Nutrition,Panyijiar
 Oxfam,Nutrition,Maban
 Oxfam,Nutrition,Malakal
 Oxfam,Nutrition,Melut
@@ -1639,14 +1639,14 @@ Oxfam,Protection,Bor South
 Oxfam,Protection,Twic East
 Oxfam,Protection,Duk
 Oxfam,Protection,Nyirol
-Oxfam,Protection,PiBor South
+Oxfam,Protection,Pibor
 Oxfam,Protection,Rumbek Centre
 Oxfam,Protection,Rumbek East
 Oxfam,Protection,Rumbek North
 Oxfam,Protection,Wau
 Oxfam,Protection,Leer
 Oxfam,Protection,Mayendit
-Oxfam,Protection,Panyijar
+Oxfam,Protection,Panyijiar
 Oxfam,Protection,Maban
 Oxfam,Protection,Malakal
 Oxfam,Protection,Melut
@@ -1665,14 +1665,14 @@ Oxfam,WASH,Bor South
 Oxfam,WASH,Twic East
 Oxfam,WASH,Duk
 Oxfam,WASH,Nyirol
-Oxfam,WASH,PiBor South
+Oxfam,WASH,Pibor
 Oxfam,WASH,Rumbek Centre
 Oxfam,WASH,Rumbek East
 Oxfam,WASH,Rumbek North
 Oxfam,WASH,Wau
 Oxfam,WASH,Leer
 Oxfam,WASH,Mayendit
-Oxfam,WASH,Panyijar
+Oxfam,WASH,Panyijiar
 Oxfam,WASH,Maban
 Oxfam,WASH,Malakal
 Oxfam,WASH,Melut
@@ -1703,14 +1703,14 @@ Oxfam,Media,Bor South
 Oxfam,Media,Twic East
 Oxfam,Media,Duk
 Oxfam,Media,Nyirol
-Oxfam,Media,PiBor South
+Oxfam,Media,Pibor
 Oxfam,Media,Rumbek Centre
 Oxfam,Media,Rumbek East
 Oxfam,Media,Rumbek North
 Oxfam,Media,Wau
 Oxfam,Media,Leer
 Oxfam,Media,Mayendit
-Oxfam,Media,Panyijar
+Oxfam,Media,Panyijiar
 Oxfam,Media,Maban
 Oxfam,Media,Malakal
 Oxfam,Media,Melut
@@ -1787,7 +1787,7 @@ Norwegian Refugee Council ,WASH,Gogrial West
 Norwegian Refugee Council ,WASH,Tonj South
 Norwegian Refugee Council ,WASH,Twic East
 IntraHealth,Health,Juba
-IntraHealth,Health,Kajo-Keji
+IntraHealth,Health,Kajo-keji
 IntraHealth,Health,Lainya
 IntraHealth,Health,Yei
 IntraHealth,Health,Budi
@@ -1795,7 +1795,7 @@ IntraHealth,Health,Magwi
 IntraHealth,Health,Torit
 IntraHealth,Health,Yambio
 German leprosy & TB Relief Association,Health,Juba
-German leprosy & TB Relief Association,Health,Kajo-Keji
+German leprosy & TB Relief Association,Health,Kajo-keji
 German leprosy & TB Relief Association,Health,Lainya
 German leprosy & TB Relief Association,Health,Morobo
 German leprosy & TB Relief Association,Health,Terekeka
@@ -1846,7 +1846,7 @@ AVSI,CCCM,Cueibet
 AVSI,Nutrition,Ikotos
 AVSI,Nutrition,Torit
 British Council,Education,Juba
-Concordis,Conflict Prevention and Peacebuilding,Kajo-Keji
+Concordis,Conflict Prevention and Peacebuilding,Kajo-keji
 Concordis,Conflict Prevention and Peacebuilding,Aweil East
 Concordis,Conflict Prevention and Peacebuilding,Aweil North
 Concordis,Conflict Prevention and Peacebuilding,Aweil West
@@ -1858,7 +1858,7 @@ Concordis,Conflict Prevention and Peacebuilding,Melut
 Concordis,Conflict Prevention and Peacebuilding,Renk
 Concordis,Conflict Prevention and Peacebuilding,Abyei
 Mines Advisory Group,Mine Action,Juba
-Mines Advisory Group,Mine Action,Kajo-Keji
+Mines Advisory Group,Mine Action,Kajo-keji
 Mines Advisory Group,Mine Action,Lainya
 Mines Advisory Group,Mine Action,Morobo
 Mines Advisory Group,Mine Action,Terekeka
