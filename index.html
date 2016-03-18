@@ -139,7 +139,7 @@ d3.csv("data/SS3W.csv", function(csv_data){
   .colorDomain([0,9])
   .colorAccessor(function(d, i){return i%9;});
 
-  org_chart.width(600).height(2000)
+  org_chart.width(600).height(2500)
   .dimension(cf.organisation)
   .group(organisation)
   .elasticX(true)
