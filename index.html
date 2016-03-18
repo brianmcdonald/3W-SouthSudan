@@ -114,9 +114,9 @@ var org_chart = dc.rowChart("#orgs");
 d3.csv("data/SS3W.csv", function(csv_data){
   var cf = crossfilter(csv_data);
 
-  cf.sector = cf.dimension(function(d) { return d.#sector; });
-  cf.pcode = cf.dimension(function(d) { return d.#adm2; });
-  cf.organisation = cf.dimension(function(d) { return d.#org; });
+  cf.sector = cf.dimension(function(d) { return d.SectorCluster; });
+  cf.pcode = cf.dimension(function(d) { return d.County; });
+  cf.organisation = cf.dimension(function(d) { return d.Organisation; });
 
   var sector = cf.sector.group();
   var pcode = cf.pcode.group();
@@ -139,12 +139,12 @@ d3.csv("data/SS3W.csv", function(csv_data){
   .colorDomain([0,9])
   .colorAccessor(function(d, i){return i%9;});
 
-  org_chart.width(600).height(3000)
+  org_chart.width(600).height(2000)
   .dimension(cf.organisation)
   .group(organisation)
   .elasticX(true)
   .data(function(group) {
-    return group.top(1130);
+    return group.top(113);
   })
   .colors(['#3182bd'])
   .colorDomain([0,0])
