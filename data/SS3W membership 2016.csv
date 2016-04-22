@@ -279,15 +279,15 @@ Catholic Medical Mission Board,Protection,Ezo
 Catholic Medical Mission Board,Protection,Nzara
 Catholic Medical Mission Board,Protection,Yambio
 Catholic Medical Mission Board,WASH,Nzara
+Doctors with Africa CUAMM,CCCM,Rumbek North
+Doctors with Africa CUAMM,CCCM,Yirol West
 Doctors with Africa CUAMM,Health,Mundri East
 Doctors with Africa CUAMM,Health,Cueibet
 Doctors with Africa CUAMM,Health,Rumbek Centre
 Doctors with Africa CUAMM,Health,Rumbek East
 Doctors with Africa CUAMM,Health,Rumbek North
-Doctors with Africa CUAMM,Health,Wulu
 Doctors with Africa CUAMM,Health,Yirol West
 Doctors with Africa CUAMM,Nutrition,Mundri East
-Doctors with Africa CUAMM,Nutrition,Cueibet
 Doctors with Africa CUAMM,Nutrition,Rumbek North
 Doctors with Africa CUAMM,Nutrition,Yirol West
 OVCI,Education,Juba
@@ -463,14 +463,24 @@ The Netherlands Red Cross,Shelter and Non-Food Items,Bor South
 The Netherlands Red Cross,WASH,Gogrial West
 The Netherlands Red Cross,WASH,Tonj South
 Mennonite Central Committee,Emergency Telecoms,Rumbek Centre
-Medair,Health,Juba
-Medair,Health,Pibor
+Medair,Health,Leer
+Medair,Health,Mayendit
+Medair,Health,Maban
+Medair,Health,Renk
+Medair,Logistics,Juba
+Medair,Nutrition,Duk
+Medair,Nutrition,Leer
 Medair,Nutrition,Mayendit
+Medair,Nutrition,Maban
+Medair,Nutrition,Renk
 Medair,Shelter and Non-Food Items,Juba
-Medair,Shelter and Non-Food Items,Leer
 Medair,Shelter and Non-Food Items,Malakal
-Medair,WASH,Juba
-Medair,WASH,Koch
+Medair,Shelter and Non-Food Items,Juba
+Medair,WASH,Leer
+Medair,WASH,Mayendit
+Medair,WASH,Maban
+Medair,WASH,Malakal
+Medair,WASH,Renk
 Internews Network,CCCM,Juba
 Internews Network,CCCM,Awerial
 Internews Network,CCCM,Awerial Centre
@@ -939,9 +949,9 @@ Pact,Governance & Rule of Law,Rumbek Centre
 Pact,Governance & Rule of Law,Aweil Centre
 Pact,Governance & Rule of Law,Tonj North
 Pact,Governance & Rule of Law,Twic
-Solidarites International,WASH,Ayod
-Solidarites International,WASH,Malakal
-Solidarites International,WASH,Panyikang
+Solidarites International,Food Security & Livlihoods,Malakal
+Solidarites International,WASH,Juba
+Solidarites International,WASH,Fangak
 World Renew,Food Security & Livlihoods,Yei
 World Renew,Conflict Prevention & Peacebuilding,Juba
 World Renew,Conflict Prevention & Peacebuilding,Yei
@@ -1880,9 +1890,6 @@ Across,Governance & Rule of Law,Rumbek East
 Across,Governance & Rule of Law,Yirol West
 Premiere Urgence - Aide Medicale Internationale,Food Security & Livlihoods,Aweil North
 Premiere Urgence - Aide Medicale Internationale,Health,Aweil North
-Premiere Urgence - Aide Medicale Internationale,Health,Gogrial West
-Premiere Urgence - Aide Medicale Internationale,Nutrition,Aweil North
-Premiere Urgence - Aide Medicale Internationale,Nutrition,Gogrial West
 Christian Aid,Education,Ezo
 Christian Aid,Education,Ibba
 Christian Aid,Education,Maridi
@@ -1940,9 +1947,12 @@ Dorcas Aid International,WASH,Gogrial West
 Dorcas Aid International,Conflict Prevention & Peacebuilding,Jur River
 Dorcas Aid International,Conflict Prevention & Peacebuilding,Wau
 Dorcas Aid International,Conflict Prevention & Peacebuilding,Gogrial West
+The MENTOR Initiative,Health,Juba
+The MENTOR Initiative,Health,Awerial
+The MENTOR Initiative,Health,Fashoda
 The MENTOR Initiative,Health,Maban
 The MENTOR Initiative,Health,Malakal
-The MENTOR Initiative,WASH,Malakal
+The MENTOR Initiative,Logistics,Juba
 International Federation of Red Cross and Red Crescent Societies,Health,Yambio
 International Federation of Red Cross and Red Crescent Societies,Food Security & Livlihoods,Bor South
 Wildlife Conservation Society,Conflict Prevention & Peacebuilding,Juba
