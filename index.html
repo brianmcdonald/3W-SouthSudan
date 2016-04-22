@@ -2,103 +2,102 @@
 <html lang="en">
 
 <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>3W:OP - INGO</title>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>3W:OP - INGO</title>
 
-    <!-- Bootstrap -->
-    <link href="css/bootstrap.min.css" rel="stylesheet">
-    <!-- Sheetsee -->
+  <!-- Bootstrap -->
+  <link href="css/bootstrap.min.css" rel="stylesheet">
+  <!-- Sheetsee -->
 
-   <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
-   <link rel="stylesheet" type="text/css" href="css/dc.css"/>
-   <link rel="stylesheet" type="text/css" href="css/3w-dashboard.css"/>
-   <script src="js/jquery.js"></script>
-   <script src="js/data.js"></script>
+  <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+  <link rel="stylesheet" type="text/css" href="css/dc.css"/>
+  <link rel="stylesheet" type="text/css" href="css/3w-dashboard.css"/>
+  <script src="js/jquery.js"></script>
+  <script src="js/data.js"></script>
 
 
 </head>
 
 <body>
 
-    <!-- navbar start -->
-    <nav class="navbar navbar-inverse" role="navigation" style="background-color:#6C4D80">
-        <div class="container-fluid">
-            <!-- Brand and toggle get grouped for better mobile display -->
-            <div class="navbar-header">
-                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
-                    <span class="sr-only">Toggle navigation</span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                </button>
-                <a class="navbar-brand" href="#" style="color:white;">3W: Operational Presence</a>
-            </div>
-
-            <!-- Collect the nav links, forms, and other content for toggling -->
-            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-                <ul class="nav navbar-nav navbar-right">
-                    <li class="dropdown">
-                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false" style="color:white;">Other Dashboards <span class="caret"></span></a>
-                        <ul class="dropdown-menu" role="menu">
-                        	<li><a href="http://southsudanngoforum.org/SecurityIncidentsDashboard/">Security Incidents</a></li>
-                            <li><a href="http://southsudanngoforum.org/AccessIncidentsDashboard/">Access Incidents</a></li>
-                            <li><a href="http://southsudanngoforum.org/contacts">INGO CD Contacts</a>
-                            </li>
-                            <li><a href="http://southsudanngoforum.org/contacts-nngo">NNGO CD Contacts</a>
-                            </li>
-                        </ul>
-                    </li>
-                </ul>
-            </div>
-            <!-- /.navbar-collapse -->
-        </div>
-        <!-- /.container-fluid -->
-    </nav>
-    <!-- navbar end  -->
+  <!-- navbar start -->
+  <nav class="navbar navbar-inverse" role="navigation" style="background-color:#6C4D80">
     <div class="container-fluid">
+      <!-- Brand and toggle get grouped for better mobile display -->
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+          <span class="sr-only">Toggle navigation</span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+        <a class="navbar-brand" href="#" style="color:white;">3W: Operational Presence</a>
+      </div>
+
+      <!-- Collect the nav links, forms, and other content for toggling -->
+      <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+        <ul class="nav navbar-nav navbar-right">
+          <li class="dropdown">
+            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false" style="color:white;">Other Dashboards <span class="caret"></span></a>
+            <ul class="dropdown-menu" role="menu">
+              <!-- <li><a href="http://southsudanngoforum.org/SecurityIncidentsDashboard/">Security Incidents</a></li>
+              <li><a href="http://southsudanngoforum.org/AccessIncidentsDashboard/">Access Incidents</a></li>
+              <li><a href="http://southsudanngoforum.org/contacts">INGO CD Contacts</a> </li> -->
+              <li><a href="http://southsudanngoforum.org/3w-nngo">NNGO 3W:Operational Presence</a>
+              </li>
+            </ul>
+          </li>
+        </ul>
+      </div>
+      <!-- /.navbar-collapse -->
+    </div>
+    <!-- /.container-fluid -->
+  </nav>
+  <!-- navbar end  -->
+  <div class="container-fluid">
+    <div class="row">
+      <!-- start -->
+
+      <div class="container" id="dashboard">
         <div class="row">
-<!-- start -->
+          <div class="col-md-7">Interactive data visualization of South Sudan INGO Operational Presence at county-level.</br>Hover over segments for additional data and click to filter by selected criteria.</br><strong>Source:</strong> <a href="https://data.hdx.rwlabs.org/dataset/south-sudan-3w-operational-presence-ingo-south-sudan-ngo-forum" target="_blank" >South Sudan NGO Forum 3W Data</a>.<strong> Last Updated:</strong> 11th April 2016 </br><small>* Boundaries and names shown do not imply endorsement by the NGO Forum or its members.</small><br><small>* Operational Presence is defined as: Organisations that are physically present in the district and are delivering a humanitarian service or implementing a humanitarian project.</small></div>
+          <div id="count-info" class="col-md-5 ">
+            <strong><span class="badge"><span class="filter-count "></span></span></strong> of <strong><span class="badge"><span class="total-count "></span></span></strong> records selected</div>
 
-<div class="container" id="dashboard">
-     <div class="row">
-     <div class="col-md-7">Interactive data visualization of South Sudan INGO Operational Presence at county-level.</br>Hover over segments for additional data and click to filter by selected criteria.</br><strong>Source:</strong> <a href="" target="_blank" >South Sudan NGO Forum 3W Data</a>.<strong> Last Updated:</strong> 26th November 2015 </br><small>* Boundaries and names shown do not imply endorsement by the NGO Forum or its members.</small><br><small>* Operational Presence is defined as: Organisations that are physically present in the district and are delivering a humanitarian service or implementing a humanitarian project.</small></div>
-     <div id="count-info" class="col-md-5 ">
-        <strong><span class="badge"><span class="filter-count "></span></span></strong> of <strong><span class="badge"><span class="total-count "></span></span></strong> records selected</div>
-
-     <div class="col-md-1 col-md-offset-0">
-        </br><a class="reset btn btn-primary btn-sm" id="reset" href="javascript:dc.filterAll();dc.redrawAll();">Reset All</a>
-     </div>
-     <div class="col-md-1 col-md-offset-0">
-        </br><a class="btn btn-default btn-sm" href="http://southsudanngoforum.org/3w-nngo">NNGO 3W</a>
-     </div>
-     <div class="col-md-2 col-md-offset-0">
+            <div class="col-md-1 col-md-offset-0">
+            </br><a class="reset btn btn-primary btn-sm" id="reset" href="javascript:dc.filterAll();dc.redrawAll();">Reset All</a>
+          </div>
+          <div class="col-md-1 col-md-offset-0">
+          </br><a class="btn btn-default btn-sm" href="http://southsudanngoforum.org/3w-nngo">NNGO 3W</a>
+        </div>
+        <div class="col-md-2 col-md-offset-0">
         </br><a class="btn btn-success btn-sm" href="https://docs.google.com/forms/d/1MNdkBKzR7CA9T8jLGevGpCGJYpPsod9-ps8uyH6336A/viewform?usp=send_form">Submit/Update Records</a>
-     </div>
- 
-      </br></br>
-   </div>
-   <div class="row">
-      <div class="col-md-5">
+      </div>
 
-     <div class="row">
+    </br></br>
+  </div>
+  <div class="row">
+    <div class="col-md-5">
+
+      <div class="row">
         <div id="sector" class="col-xs-7">
-           <h4>Cluster/Sector (WHAT)</h4>
+          <h4>Cluster/Sector (WHAT)</h4>
         </div>
-     </div>
-     <div class="row">
+      </div>
+      <div class="row">
         <div id="orgs" class="col-lg-12">
-           <h4>State-level sectoral-presence count by NGO (WHO)</h4>
-           <!--<div class="col-xs-12"><em>By activity count</em></div>-->
+          <h4>State-level sectoral-presence count by NGO (WHO)</h4>
+          <!--<div class="col-xs-12"><em>By activity count</em></div>-->
         </div>
-     </div>
       </div>
-      <div id="map" class="col-md-7">
-     <h4>County (WHERE)</h4>
-      </div>
-   </div>
-      <div id="footer" class="col-md-6 col-md-offset-3"><strong><small>Developed  by <a href="http://www.southsudanngoforum.org">Brian Mc Donald</a> - infomgr@southsudanngoforum.org</a></small></strong></br></br></div>
+    </div>
+    <div id="map" class="col-md-7">
+      <h4>County (WHERE)</h4>
+    </div>
+  </div>
+  <div id="footer" class="col-md-6 col-md-offset-3"><strong><small>Developed  by <a href="http://www.southsudanngoforum.org">Brian Mc Donald</a> - infomgr@southsudanngoforum.org</a></small></strong></br></br></div>
 </div>
 <script type="text/javascript" src="js/d3.js"></script>
 <script type="text/javascript" src="js/crossfilter.js"></script>
@@ -112,91 +111,91 @@ var map_chart = dc.geoChoroplethChart("#map");
 var org_chart = dc.rowChart("#orgs");
 
 d3.csv("data/SS3W.csv", function(csv_data){
-      var cf = crossfilter(csv_data);
+  var cf = crossfilter(csv_data);
 
-      cf.sector = cf.dimension(function(d) { return d.SectorCluster; });
-      cf.pcode = cf.dimension(function(d) { return d.County; });
-      cf.organisation = cf.dimension(function(d) { return d.Organisation; });
+  cf.sector = cf.dimension(function(d) { return d.SectorCluster; });
+  cf.pcode = cf.dimension(function(d) { return d.County; });
+  cf.organisation = cf.dimension(function(d) { return d.Organisation; });
 
-      var sector = cf.sector.group();
-      var pcode = cf.pcode.group();
-      var organisation = cf.organisation.group();
-      var all = cf.groupAll();
+  var sector = cf.sector.group();
+  var pcode = cf.pcode.group();
+  var organisation = cf.organisation.group();
+  var all = cf.groupAll();
 
-      sector_chart.width(220).height(220)
-      .dimension(cf.sector)
-      .group(sector)
-      .innerRadius(50)
-      .colors(['#e41a1c',
-     '#377eb8',
-     '#4daf4a',
-     '#984ea3',
-     '#ff7f00',
-     '#ffff33',
-     '#a65628',
-     '#f781bf',
-     '#999999'])
-      .colorDomain([0,9])
-      .colorAccessor(function(d, i){return i%9;});
+  sector_chart.width(220).height(220)
+  .dimension(cf.sector)
+  .group(sector)
+  .innerRadius(50)
+  .colors(['#e41a1c',
+  '#377eb8',
+  '#4daf4a',
+  '#984ea3',
+  '#ff7f00',
+  '#ffff33',
+  '#a65628',
+  '#f781bf',
+  '#999999'])
+  .colorDomain([0,9])
+  .colorAccessor(function(d, i){return i%9;});
 
-org_chart.width(600).height(3000)
-   .dimension(cf.organisation)
-   .group(organisation)
-   .elasticX(true)
-   .data(function(group) {
-     return group.top(140);
-     })
-.colors(['#3182bd'])
-   .colorDomain([0,0])
-   .colorAccessor(function(d, i){return 1;});
+  org_chart.width(600).height(2500)
+  .dimension(cf.organisation)
+  .group(organisation)
+  .elasticX(true)
+  .data(function(group) {
+    return group.top(118);
+  })
+  .colors(['#3182bd'])
+  .colorDomain([0,0])
+  .colorAccessor(function(d, i){return 1;});
 
-dc.dataCount("#count-info")
-   .dimension(cf)
-   .group(all);
+  dc.dataCount("#count-info")
+  .dimension(cf)
+  .group(all);
 
-d3.json("data/SSadm2.geojson", function (statesJSON) {
+  d3.json("data/SSadm2.geojson", function (statesJSON) {
 
-      map_chart.width(750).height(550)
-      .dimension(cf.pcode)
-      .group(pcode)
-      .colors(['#AAAAAA', '#3182bd']) 
-      .colorDomain([0, 1])
-      .colorAccessor(function (d) {
-     if(d>0){
-     return 1;
-     } else {
-     return 0;
-     }
-     })
-      .overlayGeoJson(statesJSON.features, "County", function (d) {
-     return d.properties.HRname;
-     })
-      .projection(d3.geo.mercator().center([31.5,8.1]).scale(3400))
-      .title(function (d) {
-     return "County: " + pcode2state[d.key];
-     });
+    map_chart.width(750).height(550)
+    .dimension(cf.pcode)
+    .group(pcode)
+    .colors(['#AAAAAA', '#3182bd'])
+    .colorDomain([0, 1])
+    .colorAccessor(function (d) {
+      if(d>0){
+        return 1;
+      } else {
+        return 0;
+      }
+    })
+    .overlayGeoJson(statesJSON.features, "County", function (d) {
+      return d.properties.HRname;
+    })
+    .projection(d3.geo.mercator().center([31.5,8.1]).scale(3400))
+    .title(function (d) {
+      return "County: " + pcode2state[d.key];
+    });
 
-      $('#loading').hide();
-      $('#dashboard').show();
-      dc.renderAll();                  
-});            
+    $('#loading').hide();
+    $('#dashboard').show();
+    dc.renderAll();
+  });
 });
 </script>
 <script src="js/bootstrap.min.js"></script>
 
 <script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-  ga('create', 'UA-59624728-1', 'auto');
-  ga('send', 'pageview');
+ga('create', 'UA-71221812-1', 'auto');
+ga('send', 'pageview');
 
 </script>
 
-        </div>
-    </div>
+</div>
+</div>
 </body>
 
 </html>
