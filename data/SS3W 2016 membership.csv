@@ -119,7 +119,11 @@ Jhpiego,Health,Nagero
 Jhpiego,Health,Nzara
 Jhpiego,Health,Tambura
 Jhpiego,Health,Yambio
+Solidarites International,Food Security & Livlihoods,Malakal
+Solidarites International,WASH,Juba
 Solidarites International,WASH,Ayod
+Solidarites International,WASH,Fangak
+Solidarites International,WASH,Awerial
 Solidarites International,WASH,Malakal
 Solidarites International,WASH,Panyikang
 IMA World Health,Health,Akobo
@@ -463,14 +467,15 @@ Doctors with Africa CUAMM,Health,Cueibet
 Doctors with Africa CUAMM,Health,Rumbek Centre
 Doctors with Africa CUAMM,Health,Rumbek East
 Doctors with Africa CUAMM,Health,Rumbek North
-Doctors with Africa CUAMM,Health,Wulu
 Doctors with Africa CUAMM,Health,Yirol West
 Doctors with Africa CUAMM,Nutrition,Mundri East
 Doctors with Africa CUAMM,Nutrition,Cueibet
 Doctors with Africa CUAMM,Nutrition,Rumbek North
 Doctors with Africa CUAMM,Nutrition,Yirol West
+The MENTOR Initiative,Health,Rubkona
 The MENTOR Initiative,Health,Maban
 The MENTOR Initiative,Health,Malakal
+The MENTOR Initiative,WASH,Rubkona
 The MENTOR Initiative,WASH,Malakal
 East African Ministries,Education,Magwi
 East African Ministries,Health,Kajo-keji
@@ -1301,11 +1306,8 @@ American Refugee Committee,Health,Aweil Centre
 American Refugee Committee,Protection,Juba
 Serge,Education,Mundri West
 Serge,Food Security & Livlihoods,Mundri West
-Premiere Urgence Internationale,Food Security & Livlihoods,Aweil North
 Premiere Urgence Internationale,Health,Aweil North
-Premiere Urgence Internationale,Health,Gogrial West
 Premiere Urgence Internationale,Nutrition,Aweil North
-Premiere Urgence Internationale,Nutrition,Gogrial West
 Population Services International,Health,Juba
 Population Services International,Health,Kajo-keji
 Population Services International,Health,Lainya
@@ -1519,13 +1521,41 @@ OVCI,Protection,Juba
 Japan International Volunteer Center,Education,Pariang
 Japan International Volunteer Center,Protection,Pariang
 Medair,Health,Juba
-Medair,Health,Pibor
+Medair,Health,Leer
+Medair,Health,Mayendit
+Medair,Health,Rubkona
+Medair,Health,Maban
+Medair,Health,Renk
+Medair,Nutrition,Mundri East
+Medair,Nutrition,Mundri West
+Medair,Nutrition,Leer
 Medair,Nutrition,Mayendit
+Medair,Nutrition,Maban
+Medair,Nutrition,Renk
 Medair,Shelter and Non-Food Items,Juba
+Medair,Shelter and Non-Food Items,Kajo-keji
+Medair,Shelter and Non-Food Items,Lainya
+Medair,Shelter and Non-Food Items,Morobo
+Medair,Shelter and Non-Food Items,Terekeka
+Medair,Shelter and Non-Food Items,Yei
 Medair,Shelter and Non-Food Items,Leer
+Medair,Shelter and Non-Food Items,Mayendit
+Medair,Shelter and Non-Food Items,Fashoda
+Medair,Shelter and Non-Food Items,Longochuk
+Medair,Shelter and Non-Food Items,Maban
 Medair,Shelter and Non-Food Items,Malakal
+Medair,Shelter and Non-Food Items,Manyo
+Medair,Shelter and Non-Food Items,Maiwut
+Medair,Shelter and Non-Food Items,Melut
+Medair,Shelter and Non-Food Items,Luakpiny/Nasir
+Medair,Shelter and Non-Food Items,Panyikang
+Medair,Shelter and Non-Food Items,Renk
+Medair,Shelter and Non-Food Items,Ulang
 Medair,WASH,Juba
 Medair,WASH,Koch
+Medair,WASH,Leer
+Medair,WASH,Maban
+Medair,WASH,Renk
 Norwegian Refugee Council ,Education,Juba
 Norwegian Refugee Council ,Education,Terekeka
 Norwegian Refugee Council ,Education,Akobo
