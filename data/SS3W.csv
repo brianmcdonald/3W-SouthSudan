@@ -2,8 +2,19 @@ Organisation,SectorCluster,County
 Overseas Development Institute,Education,Juba
 Overseas Development Institute,Health,Juba
 Overseas Development Institute,WASH,Juba
-HELP,Education,Awerial
-HELP,Education,Yirol West
+HELP, Food Security & Livlihoods,Jur River
+HELP, Food Security & Livlihoods,Wau
+HELP, Food Security & Livlihoods,Warrap
+HELP, Food Security & Livlihoods,Tonj North
+HELP, Nutrition,Yirol East
+HELP, Nutrition,Yirol West
+HELP, WASH,Awerial
+HELP, WASH,Yirol East
+HELP, WASH,Yirol West
+HELP, WASH,Jur River
+HELP, WASH,Yirol East, Wau
+HELP, WASH,Gogrial West
+HELP, WASH,Tonj North
 GOAL,Food Security & Livlihoods,Warrap
 GOAL,Food Security & Livlihoods,Abyei region
 GOAL,Food Security & Livlihoods,Twic
@@ -648,11 +659,18 @@ Welthungerhilfe/German Agro Action,Food Security & Livlihoods,Rubkona
 Welthungerhilfe/German Agro Action,WASH,Aweil Centre
 Welthungerhilfe/German Agro Action,WASH,Aweil North
 Welthungerhilfe/German Agro Action,WASH,Aweil South
-Welthungerhilfe/German Agro Action,WASH,Aweil West
-Catholic Medical Mission Board,Health,Ezo
+Welthungerhilfe/German Agro Action,WASH, Aweil West
 Catholic Medical Mission Board,Health,Mvolo
-Catholic Medical Mission Board,Health,Nzara
-Catholic Medical Mission Board,Health,Yambio
+Catholic Medical Mission Board,Nutrition,Ezo
+Catholic Medical Mission Board,Nutrition,Mvolo
+Catholic Medical Mission Board,Nutrition,Nzara
+Catholic Medical Mission Board,Protection,Ezo
+Catholic Medical Mission Board,Protection,Nzara
+Catholic Medical Mission Board,Protection,Yambio
+Catholic Medical Mission Board,Shelter & Non-Food Items,Yambio
+Catholic Medical Mission Board,WASH,Ezo
+Catholic Medical Mission Board,Nzara
+Catholic Medical Mission Board,Yambio
 ZOA,Food Security & Livlihoods,Lainya
 ZOA,Food Security & Livlihoods,Terekeka
 ZOA,Food Security & Livlihoods,Torit
