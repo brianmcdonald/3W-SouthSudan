@@ -5,5 +5,8 @@ This visualisation is of the Operational Presence of International NGOs in South
 
 Please contact infomgr@southsudanngoforum.org for more details and feel free to reuse the code but credit my name and email.
 
-#Licence#
+## Note
+The data is this tool is now outdated.
+
+## Licence
 [CC by 3.0](https://creativecommons.org/licenses/by/3.0/)
